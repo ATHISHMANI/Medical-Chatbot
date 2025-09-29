@@ -26,3 +26,5 @@ It allows users to interact in real time through a clean and responsive web UI.
 ---
 
 ##  Here’s the final chatbot UI:
+
+ <img width="900" height="450" alt="Screenshot 2025-09-28 at 10 32 34 PM" src="https://github.com/user-attachments/assets/8d011795-5f6d-44e5-a293-f1bdb25df854" />
